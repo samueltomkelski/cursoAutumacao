@@ -1,0 +1,3 @@
+[1202/145345.217:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido.  (0xc0000022)
+[1202/145345.254:ERROR:exception_snapshot_win.cc(87)] thread ID 6388 not found in process
+[1202/145345.254:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
